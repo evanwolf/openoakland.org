@@ -87,7 +87,7 @@ Projects with the <span class="badge badge-{{ page.badges['inactive'] }}">Inacti
 
 ### Decommissioned projects
 
-Projoects with the <span class="badge badge-{{ page.badges['decommissioned'] }}">Decommissioned</span> label are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
+Projects with the <span class="badge badge-{{ page.badges['decommissioned'] }}">Decommissioned</span> label are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
 
 ---
 
